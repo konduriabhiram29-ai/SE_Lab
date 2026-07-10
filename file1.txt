@@ -1,2 +1,3 @@
 Hello This is vi file
 This is how i works
+This is in git repo after commit
