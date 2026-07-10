@@ -1,0 +1,2 @@
+Hello This is vi file
+This is how i works
